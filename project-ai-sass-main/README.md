@@ -1,11 +1,5 @@
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
-![thumbnail](https://github.com/kungfu321/project-ai-sass/assets/10558363/656fe339-07c7-4be8-b4d2-c65bc0485eea)
-
 In this repository we are Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
-
-VIDEO TUTORIAL (English version) (Coming soon)
-
-[VIDEO TUTORIAL (Vietnamese version)](https://youtu.be/X8Qd7SMbfaQ)
 
 ## Features
 - Tailwind CSS
